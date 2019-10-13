@@ -5,4 +5,4 @@
 There is an ancient indigenous legend that says if you open msn.com when your internet is dead it will start working again. 
 
 
-https://chrome.google.com/webstore/detail/mmmnnnhepihkjfbipdhjndcfhgepdpkp/publish-accepted
+https://chrome.google.com/webstore/detail/mmmnnnhepihkjfbipdhjndcfhgepdpkp
